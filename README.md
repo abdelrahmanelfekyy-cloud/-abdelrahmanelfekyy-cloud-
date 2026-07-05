@@ -1,130 +1,47 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman Elfeky</h1>
+<div align="center" width="50">
 
-<h3 align="center">
-Cloud & DevOps Engineer | AWS | Azure | Terraform | Docker | Kubernetes | Jenkins | GitOps | Linux | CI CD |
-</h3>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;Automating+Infrastructure+with+IaC;Building+CI%2FCD+Pipelines" />
-</p>
+<details>
+<p><strong> <summary>  Busy coding & Vibing to :    </summary> </strong></p>
 
----
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
 
-# 👨‍💻 About Me
+</details>
 
-I'm **Abdelrahman Elfeky**, a passionate **Cloud & DevOps Engineer** focused on designing scalable cloud infrastructure and automating deployments.
+![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+</div>
 
-I enjoy building production-ready environments using **AWS**, **Terraform**, **Docker**, **Kubernetes**, **Jenkins**, and **GitOps**.
+<hr></hr>
 
-Currently improving my skills in Kubernetes, Helm, Argo CD, and Cloud Architecture while building real-world DevOps projects.
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat_Linux-%23EE0000.svg?style=flat&logo=red-hat&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1626?style=flat&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-%23F3592B.svg?style=flat&logo=argo&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
----
+```python
+# Abdelrahman Elfeky - Cloud & DevOps Engineer Engine
 
-# 🚀 Tech Stack
-
-### ☁️ Cloud
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-
----
-
-### 🐧 Operating Systems
-
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-
----
-
-### 📦 Containers
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
----
-
-### ☸️ Orchestration
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm)
-
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo)
-
----
-
-### ⚙️ Infrastructure as Code
-
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
-
----
-
-### 🔄 CI/CD
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-
----
-
-### 💻 Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash)
-
----
-
-### 🔧 Version Control
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
----
-
-# 📂 Featured Projects
-
-### 🔹 AWS Secure VPC Infrastructure
-- Multi-AZ VPC
-- Public & Private Subnets
-- NAT Gateway
-- Internet Gateway
-- EC2
-- Security Groups
-
----
-
-### 🔹 Terraform Infrastructure
-Provision complete AWS infrastructure using Terraform modules.
-
----
-
-### 🔹 Kubernetes Deployment
-Deploy containerized applications with Kubernetes, Helm, and Argo CD.
-
----
-
-### 🔹 CI/CD Pipeline
-Automated build, test, Docker image creation, and deployment using Jenkins.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📫 Connect with Me
-
-- LinkedIn
-- Email
-- GitHub
-
----
-
-⭐ Always learning Cloud, Automation, and DevOps best practices.
+class DevOpsEngineer:
+    def __init__(self):
+        self.name = "Abdelrahman Elfeky"
+        self.role = "Cloud & DevOps Engineer"
+        self.cloud_providers = ["AWS", "Azure"]
+        self.containerization = ["Docker", "Kubernetes", "Helm"]
+        self.iac_gitops = ["Terraform", "Argo CD"]
+        self.cicd_automation = ["Jenkins", "Python Automation", "Bash Scripting"]
+        self.os_version_control = ["Red Hat Enterprise Linux", "Git", "GitHub"]
